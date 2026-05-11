@@ -108,6 +108,3 @@ The business lacked clear visibility into:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/mohankumawat17-bit/Afficionado-Coffee-Analysis.git
-
-### Live Dashboard Link:
-https://mohankumawat17-bit-product-optimization-revenue-anal-app-l86tlz.streamlit.app/
