@@ -7,7 +7,13 @@
 **Live Dashboard:** [Click Here](https://afficionado-coffee-analysis-ip2nceibngh4brxb4av5iw.streamlit.app/)
 
 ---
+## 💼 Business Problem
 
+Afficionado Coffee Roasters offers a wide range of products across multiple stores and categories. As the product portfolio grows, it becomes difficult to identify which products drive revenue, which products should be promoted, and which products contribute little to overall business performance.
+
+Without product-level analysis, management may struggle to make informed decisions about inventory planning, product promotions, and menu optimization.
+
+---
 ## 📌 Project Overview
 
 This project analyzes transaction-level sales data from Afficionado Coffee Roasters to understand product performance, revenue contribution, and menu optimization opportunities.
@@ -15,8 +21,17 @@ This project analyzes transaction-level sales data from Afficionado Coffee Roast
 The goal is to shift focus from **when customers buy** to **what they buy** and **what drives revenue**.
 
 ---
+## ❓ Business Questions
 
-## 🎯 Objectives
+- Which products generate the highest revenue?
+- Which products sell the highest quantity?
+- Which product categories contribute the most revenue?
+- Which products should be considered Hero Products?
+- Does the Pareto Principle (80/20 Rule) apply to product revenue?
+- Which products should management focus on for business growth?
+
+---
+## 🎯 Business Objectives
 
 - Identify top-selling and least-selling products
 - Quantify revenue contribution by product and category
@@ -121,10 +136,36 @@ python -m streamlit run app.py
 - **Filters** — Category, Store Location, Top N slider
 
 ---
+## 💡 Business Recommendations
 
+- Focus marketing efforts on Hero Products with high revenue contribution.
+- Maintain sufficient inventory for high-demand products.
+- Review low-performing products and evaluate their business value.
+- Optimize the product portfolio using Pareto Analysis.
+- Monitor category performance regularly to support data-driven decisions.
+
+---
+## 📈 Business Impact
+
+This analysis helps management understand product performance, improve inventory planning, optimize the product portfolio, and make better business decisions based on revenue contribution and customer purchasing patterns.
+
+---
+## 🚀 Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Product Performance Analysis
+- Revenue Analysis
+- Pareto Analysis (80/20 Rule)
+- Business Reporting
+- Data Visualization
+- Streamlit Dashboard Development
+
+---
 ## 👨‍💻 About
 
 **Mohan Lal Kumawat**  
-Data Analyst | Unified Mentor Internship  
+Aspiring Business Data Analyst
+Skills: Excel | SQL | Power BI | Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 📧 mohankumawat17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohan-kumawat-270125aa)
